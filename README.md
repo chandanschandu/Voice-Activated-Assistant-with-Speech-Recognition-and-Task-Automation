@@ -51,6 +51,4 @@ Run the script and give voice commands such as:
 
 Customize application paths and add more commands in the `ragnar.py` script.
 
-## License
 
-This project is licensed under the MIT License.

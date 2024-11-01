@@ -1,6 +1,5 @@
-# Voice Assistant Ragnar
-
-Ragnar is a voice-activated personal assistant built using Python. It recognizes voice commands to perform various tasks such as searching Wikipedia, opening websites, launching applications, and providing the current date and time.
+# Voice Assistant 
+voice-activated personal assistant built using Python. It recognizes voice commands to perform various tasks such as searching Wikipedia, opening websites, launching applications, and providing the current date and time.
 
 ## Features
 
